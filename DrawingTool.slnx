@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="DrawingTool.App/DrawingTool.App.csproj" />
+  <Project Path="DrawingTool.Core/DrawingTool.Core.csproj" />
+  <Project Path="DrawingTool.Tests/DrawingTool.Tests.csproj" />
+</Solution>
